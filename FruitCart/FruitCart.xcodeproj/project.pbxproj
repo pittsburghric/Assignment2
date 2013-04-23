@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1813ED0C1724800B00518E56 /* Vegetables.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED0B1724800B00518E56 /* Vegetables.m */; };
+		1813ED0F172481D600518E56 /* Potato.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED0E172481D600518E56 /* Potato.m */; };
+		1813ED12172483A700518E56 /* Onion.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED11172483A700518E56 /* Onion.m */; };
+		1813ED14172483E900518E56 /* Pumpkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED13172483E900518E56 /* Pumpkin.m */; };
+		1813ED1A172498B100518E56 /* Idaho.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED19172498B100518E56 /* Idaho.m */; };
+		1813ED1C1724993200518E56 /* Red.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED1B1724993200518E56 /* Red.m */; };
+		1813ED2517249CB500518E56 /* Scary.m in Sources */ = {isa = PBXBuildFile; fileRef = 1813ED2417249CB400518E56 /* Scary.m */; };
+		1813ED271724A4FC00518E56 /* iOS Simulator Screen Shot.png in Resources */ = {isa = PBXBuildFile; fileRef = 1813ED261724A4FC00518E56 /* iOS Simulator Screen Shot.png */; };
 		555E431416B84E1D00696EF1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 555E431316B84E1D00696EF1 /* UIKit.framework */; };
 		555E431616B84E1D00696EF1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 555E431516B84E1D00696EF1 /* Foundation.framework */; };
 		555E431816B84E1D00696EF1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 555E431716B84E1D00696EF1 /* CoreGraphics.framework */; };
@@ -24,6 +32,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1813ED0A17247F9A00518E56 /* Vegetables.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vegetables.h; sourceTree = "<group>"; };
+		1813ED0B1724800B00518E56 /* Vegetables.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vegetables.m; sourceTree = "<group>"; };
+		1813ED0D1724817800518E56 /* Potato.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Potato.h; sourceTree = "<group>"; };
+		1813ED0E172481D600518E56 /* Potato.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Potato.m; sourceTree = "<group>"; };
+		1813ED101724837B00518E56 /* Onion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Onion.h; sourceTree = "<group>"; };
+		1813ED11172483A700518E56 /* Onion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Onion.m; sourceTree = "<group>"; };
+		1813ED13172483E900518E56 /* Pumpkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pumpkin.m; sourceTree = "<group>"; };
+		1813ED151724846400518E56 /* Pumpkin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pumpkin.h; sourceTree = "<group>"; };
+		1813ED181724987B00518E56 /* Idaho.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Idaho.h; sourceTree = "<group>"; };
+		1813ED19172498B100518E56 /* Idaho.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Idaho.m; sourceTree = "<group>"; };
+		1813ED1B1724993200518E56 /* Red.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Red.m; sourceTree = "<group>"; };
+		1813ED1D1724994300518E56 /* Red.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Red.h; sourceTree = "<group>"; };
+		1813ED2317249C3E00518E56 /* Scary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Scary.h; sourceTree = "<group>"; };
+		1813ED2417249CB400518E56 /* Scary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Scary.m; sourceTree = "<group>"; };
+		1813ED261724A4FC00518E56 /* iOS Simulator Screen Shot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iOS Simulator Screen Shot.png"; sourceTree = "<group>"; };
 		555E431016B84E1D00696EF1 /* FruitCart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FruitCart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		555E431316B84E1D00696EF1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		555E431516B84E1D00696EF1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,6 +88,7 @@
 		555E430716B84E1D00696EF1 = {
 			isa = PBXGroup;
 			children = (
+				1813ED261724A4FC00518E56 /* iOS Simulator Screen Shot.png */,
 				555E431916B84E1D00696EF1 /* FruitCart */,
 				555E431216B84E1D00696EF1 /* Frameworks */,
 				555E431116B84E1D00696EF1 /* Products */,
@@ -120,12 +144,26 @@
 		555E433F16B8530800696EF1 /* Fruits */ = {
 			isa = PBXGroup;
 			children = (
-				555E433716B852FF00696EF1 /* Apple.h */,
-				555E433816B852FF00696EF1 /* Apple.m */,
 				555E433916B852FF00696EF1 /* Fruit.h */,
 				555E433616B852FF00696EF1 /* Fruit.m */,
+				555E433716B852FF00696EF1 /* Apple.h */,
+				555E433816B852FF00696EF1 /* Apple.m */,
 				555E433A16B852FF00696EF1 /* GoldDelicious.h */,
 				555E433B16B852FF00696EF1 /* GoldDelicious.m */,
+				1813ED0A17247F9A00518E56 /* Vegetables.h */,
+				1813ED0B1724800B00518E56 /* Vegetables.m */,
+				1813ED0D1724817800518E56 /* Potato.h */,
+				1813ED0E172481D600518E56 /* Potato.m */,
+				1813ED181724987B00518E56 /* Idaho.h */,
+				1813ED19172498B100518E56 /* Idaho.m */,
+				1813ED101724837B00518E56 /* Onion.h */,
+				1813ED11172483A700518E56 /* Onion.m */,
+				1813ED1D1724994300518E56 /* Red.h */,
+				1813ED1B1724993200518E56 /* Red.m */,
+				1813ED151724846400518E56 /* Pumpkin.h */,
+				1813ED13172483E900518E56 /* Pumpkin.m */,
+				1813ED2317249C3E00518E56 /* Scary.h */,
+				1813ED2417249CB400518E56 /* Scary.m */,
 			);
 			name = Fruits;
 			sourceTree = "<group>";
@@ -186,6 +224,7 @@
 				555E432816B84E1E00696EF1 /* Default@2x.png in Resources */,
 				555E432A16B84E1E00696EF1 /* Default-568h@2x.png in Resources */,
 				555E433016B84E1E00696EF1 /* ViewController.xib in Resources */,
+				1813ED271724A4FC00518E56 /* iOS Simulator Screen Shot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +241,13 @@
 				555E433C16B852FF00696EF1 /* Fruit.m in Sources */,
 				555E433D16B852FF00696EF1 /* Apple.m in Sources */,
 				555E433E16B852FF00696EF1 /* GoldDelicious.m in Sources */,
+				1813ED0C1724800B00518E56 /* Vegetables.m in Sources */,
+				1813ED0F172481D600518E56 /* Potato.m in Sources */,
+				1813ED12172483A700518E56 /* Onion.m in Sources */,
+				1813ED14172483E900518E56 /* Pumpkin.m in Sources */,
+				1813ED1A172498B100518E56 /* Idaho.m in Sources */,
+				1813ED1C1724993200518E56 /* Red.m in Sources */,
+				1813ED2517249CB500518E56 /* Scary.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,6 +370,7 @@
 				555E433516B84E1E00696EF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

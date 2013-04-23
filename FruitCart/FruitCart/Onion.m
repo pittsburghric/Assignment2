@@ -1,18 +1,18 @@
 //
-//  Apple.m
+//  GoldDelicious.m
 //  FruitInheritance
 //
-//  Created by David Evans on 1/24/13.
+//  Created by Ric Fera on 4/21/13.
 //  Copyright (c) 2013 DavidEvans. All rights reserved.
 //
 
-#import "Apple.h"
+#import "Onion.h"
 
-@implementation Apple
+@implementation Onion
 
 -init
 {
-    [self setName:@"Apple"];
+    [self setName:@"Onion"];
     [self setShape:@"Round"];
     [self setColor:@"Red"];
     return self;
